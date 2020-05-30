@@ -114,3 +114,11 @@ a.active,a:hover{
     left: 0;
   }
 }
+
+content {
+  text-align: center;
+  margin-top: 32px;
+  width: 100%;
+  padding: 16px;
+  box-sizing:border-box ;
+}

@@ -28,5 +28,23 @@ const clubs = [
         category: "Vegetarian",
         pict: "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
         description: "Bring a large pot of water to a boil. Add kosher salt to the boiling water, then add the pasta. Cook according to the package instructions, about 9 minutes.\r\nIn a large skillet over medium-high heat, add the olive oil and heat until the oil starts to shimmer. Add the garlic and cook, stirring, until fragrant, 1 to 2 minutes. Add the chopped tomatoes, red chile flakes, Italian seasoning and salt and pepper to taste. Bring to a boil and cook for 5 minutes. Remove from the heat and add the chopped basil.\r\nDrain the pasta and add it to the sauce. Garnish with Parmigiano-Reggiano flakes and more basil and serve warm."
+    },
+    {
+        name: "Margarita",
+        category: "Ordinary Drink",
+        pict: "https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg",
+        description: "Rub the rim of the glass with the lime slice to make the salt stick to it. Take care to moisten only the outer rim and sprinkle the salt on it. The salt should present to the lips of the imbiber and never mix into the cocktail. Shake the other ingredients with ice, then carefully pour into the glass."
+    },
+    {
+        name: "Blue Margarita",
+        category: "Ordinary Drink",
+        pict: "https://www.thecocktaildb.com/images/media/drink/bry4qh1582751040.jpg",
+        description: "Rub rim of cocktail glass with lime juice. Dip rim in coarse salt. Shake tequila, blue curacao, and lime juice with ice, strain into the salt-rimmed glass, and serve"
+    },
+    {
+        name: "Tommy's Margarita",
+        category: "Ordinary Drink",
+        pict: "https://www.thecocktaildb.com/images/media/drink/loezxn1504373874.jpg",
+        description: "Shake and strain into a chilled cocktail glass."
     }
 ];
